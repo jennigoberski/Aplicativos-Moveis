@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecipeBook</string>
+    <string name="detalhes_da_receita">Detalhes da Receita:</string>
+    <string name="nome_da_receita">Nome da Receita:</string>
+    <string name="ingredientes">Ingredientes:</string>
+    <string name="modo_de_preparo">Modo de Preparo:</string>
+    <string name="adicionar_receita">Adicionar Receita</string>
+    <string name="bem_vindo_ao_livro_de_receitas">Bem-vindo ao Livro de Receitas!</string>
+    <string name="adicionar_nova_receita">Adicionar Nova Receita: </string>
+    <string name="insira_o_nome_da_receita">Insira o nome da receita:</string>
+    <string name="ex_torta_de_ma">Ex: Torta de maçã</string>
+    <string name="ex_5_ovos_2_x_caras_de_a_car_etc">Ex: 5 ovos, 2 xícaras de açúcar, etc</string>
+    <string name="insira_as_instru_es">Insira as instruções:</string>
+    <string name="insira_os_ingredientes">Insira os ingredientes:</string>
+    <string name="ex_misturar_os_ovos_com_a_farinha_em_uma_vasilha_etc">Ex: Misturar os ovos com a farinha em uma vasilha, etc</string>
+    <string name="salvar">Salvar</string>
+</resources>
